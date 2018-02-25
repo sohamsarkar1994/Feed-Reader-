@@ -7,7 +7,7 @@ This is my 7th Udacity project. The goal of this project is to create tests and 
 
 ## Steps to run
 
-Open **index.html** in the browser of your choice.
+Open `index.html` in the browser of your choice.
 It may take some minutes to load since the additional network requests and tests are made.
 Once loaded, the test results can be seen at the bottom of the page.
 
